@@ -1,2 +1,3 @@
-# loadstring-game-HttpGet-https-raw.githubusercontent.com-AokijiFlame-Hubs-Squid-CometHub.lua-
+jjnuswhswjhwjsns# loadstring-game-HttpGet-https-raw.githubusercontent.com-AokijiFlame-Hubs-Squid-CometHub.lua-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AokijiFlame/Hubs/Squid/CometHub.lua"))()
+njsh)snnjsnus
